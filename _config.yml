@@ -1,0 +1,28 @@
+title: Je hurle
+description: >-
+  Blog d'une féministe radicale (et misandre)
+author: Lou Dorge
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://jehurle.com"
+lang: fr
+
+sass:
+  sass_dir: _sass
+
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-admin
+  - jemoji
+
+minima:
+  date_format: "%d/%m/%Y"
+permalink: pretty
+show_excerpts: true
+
+exclude:
+  - docker-compose.yml
+  - Makefile
+  - gem
+  - .github
+  - README.md

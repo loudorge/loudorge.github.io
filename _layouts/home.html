@@ -26,14 +26,14 @@ layout: default
         		{{ post.content }}
         	{%- else -%}
           		{{ post.excerpt }}
-          		<a href="{{ post.url }}">Lire plus</a>
+          		<a href="{{ post.url }}">Lire la suite de l'article</a>
           	{%- endif -%}
         {%- endif -%}
       </li>
       {%- endfor -%}
     </ul>
 
-    <p class="rss-subscribe">s'abonner <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+    <p class="rss-subscribe"><a href="{{ "/feed.xml" | relative_url }}">S'abonner via RSS</a></p>
   {%- endif -%}
 
 </div>

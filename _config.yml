@@ -12,12 +12,10 @@ sass:
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-admin
-  - jemoji
 
 minima:
   date_format: "%d/%m/%Y"
-permalink: pretty
+permalink: /:year/:month/:day/:title/
 show_excerpts: true
 
 exclude:

@@ -22,12 +22,8 @@ layout: default
           </a>
         </h3>
         {%- if site.show_excerpts -%}
-        	{%- if true == forloop.first -%}
-        		{{ post.content }}
-        	{%- else -%}
-          		{{ post.excerpt }}
-          		<a href="{{ post.url }}">Lire la suite de l'article</a>
-          	{%- endif -%}
+        		{{ post.excerpt }}
+        		<a href="{{ post.url }}">Lire la suite de l'article</a>
         {%- endif -%}
       </li>
       {%- endfor -%}

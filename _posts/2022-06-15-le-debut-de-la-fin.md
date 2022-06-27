@@ -3,7 +3,7 @@ layout: post
 title: Le début de la fin
 ---
 
-Peut-être faudrait-il revenir au commencement. Février 2021. Après un deuxième confinement passé chez les parents, il est temps de quitter à nouveau la maison familiale. Je n'ai aucune envie de retourner à Grenoble, encore moins de m'engager une fois de plus dans un bail pour un appartement nul dans cette ville bruyante, alors après moult réflexions je décide la chose suivante : je vivrai telle une nomade avec trois fois rien dans le sac à dos, papillonnant d'AirBnb en AirBnb en attendant de trouver *la* perle rare à la campagne.
+Peut-être faudrait-il revenir au commencement. Février 2021. Après un deuxième confinement passé chez les parents, il est temps de quitter à nouveau la maison familiale. Je n'ai aucune envie de retourner à la Préfecture, encore moins de m'engager une fois de plus dans un bail pour un appartement nul dans cette ville bruyante, alors après moult réflexions je décide la chose suivante : je vivrai telle une nomade avec trois fois rien dans le sac à dos, papillonnant d'AirBnb en AirBnb en attendant de trouver *la* perle rare à la campagne.
 
 Premier séjour, <span lang="en">*life changing*</span>. Un mois chez Chantale, 50 ans, une femme qui déchire et qui m'ouvre à la "théorie" féministe. On parle de je ne sais plus trop quoi, on critique les hommes sûrement, et elle me fait "Tu ne connais pas King Kong Theorie ? Virginie Despentes, ça ne te dit rien ? Non, j'y crois pas ! Et Mona Chollet ? Lola Lafon ?" Non, non et non. Elle me suggère d'écouter Les couilles sur la table et Le coeur sur la table de Victoire Tuaillon, Quoi de meuf et tout un tas d'autres podcasts, et de lire unetelle et unetelle autre.
 
